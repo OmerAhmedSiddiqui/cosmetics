@@ -1,0 +1,12 @@
+2024-02-03T14:10:45+00:00 INFO Start-Cartflows_Admin_Report_Emails::send_weekly_report_email
+2024-02-03T14:10:45+00:00 INFO Send weekly emails to abc@gmail.com
+2024-02-03T14:10:45+00:00 INFO Total Revenue: <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8360;</span>0</bdi></span>
+2024-02-03T14:10:45+00:00 INFO Start-Cartflows_Admin_Report_Emails::send_weekly_report_email
+2024-02-03T14:10:45+00:00 INFO Send weekly emails to abc@gmail.com
+2024-02-03T14:10:45+00:00 INFO Total Revenue: <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8360;</span>0</bdi></span>
+2024-02-03T15:42:18+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2024-02-03T15:42:18+00:00 INFO Only for thank you page
+2024-02-03T15:42:18+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page
+2024-02-03T15:47:55+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2024-02-03T15:47:55+00:00 INFO Only for thank you page
+2024-02-03T15:47:55+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page

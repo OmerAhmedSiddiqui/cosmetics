@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'cosmetics' );
+define( 'DB_NAME', 'cqdkfcyyew' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'cqdkfcyyew' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'anKHrh2hPf' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '68.183.82.81' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
